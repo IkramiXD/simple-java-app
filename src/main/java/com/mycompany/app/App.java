@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("Modofied from local project!");
+        System.out.println("Modified from local project v2!");
     }
 
     public String getMessage() {
